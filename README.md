@@ -40,4 +40,14 @@ En este notebook, se crean diferentes arquitectura de redes neuronales recurrent
 4. Encoder-Decoder
 5. Encoder-Decoder version 2
 
+# U4.03 LSTM con 512 células y lookback de 30 (6000 épocas)
 
+En este notebook, se lleva a cabo el entrenamiento de una red LSTM con 512 células y lookback de 30. Para esto, se hace uso de la herramienta Google Colaboratory. Se guarda el modelo y su error cuadrático médio en diferentes puntos del entrenamiento (cada 200 épocas). Finalmente, se comparan los mse y se grafícan las predicciones del modelo con menor mse. A partir de las 4000 épocas, se cambia el optimizador de Adam a RMSProp y se agrega el parámetro tamaño de batch = 64. Se obtiene un mse de 0.175097 para los datos escalado.
+
+## Contenido
+
+1. Importación de librerías y cargue del dataset
+2. Herramientas de Google para guardar modelos en Drive
+3. Definión funciones de creación de dataset y gráficos de los modelos
+4. Creación y entrenamiento del modelo LSTM-512C-30Lb
+5. Comparación del modelo y gráfico de predicciones
