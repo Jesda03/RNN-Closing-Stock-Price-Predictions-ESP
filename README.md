@@ -28,3 +28,15 @@ Antes de explorar el contenido de este proyecto, es necesario ejecutar completam
 6. Transformada de Fourier
 7. ARIMA
 
+# U4.02 - Series de tiempo cierre acciones con Arquitecturas RNN
+
+En este notebook, se crean diferentes arquitectura de redes neuronales recurrentes (RNN) para evaluar cuál es la que mejor predice los movimientos del precio de cierre de las acciones. Los tipos de arquitectura RNN que serán implementadas LSTM y Encoders-Decoders, con las cuales se crean difentes modelos donde varia el número de neuronas de la capa LSTM y el lookback. Al final se seleccionan los modelos LSTM y Encoders-Decoders de menor pérdida para realizar las predicciones y compararlas con el precio de cierre original.
+
+## Contenido
+
+1. Importación de librerías y cargue del dataset
+2. Definión funciones de creación de dataset y gráficos de los modelos
+3. LSTM
+4. Reducción características con PCA
+5. Encoder-Decoder
+6. Encoder-Decoder version 2
