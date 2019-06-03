@@ -37,6 +37,7 @@ En este notebook, se crean diferentes arquitectura de redes neuronales recurrent
 1. Importación de librerías y cargue del dataset
 2. Definión funciones de creación de dataset y gráficos de los modelos
 3. LSTM
-4. Reducción características con PCA
-5. Encoder-Decoder
-6. Encoder-Decoder version 2
+4. Encoder-Decoder
+5. Encoder-Decoder version 2
+
+
