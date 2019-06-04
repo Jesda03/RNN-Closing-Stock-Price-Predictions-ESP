@@ -52,6 +52,17 @@ En este notebook, se lleva a cabo el entrenamiento de una red LSTM con 512 célu
 4. Creación y entrenamiento del modelo LSTM-512C-30Lb
 5. Comparación del modelo y gráfico de predicciones
 
+# U4.04 Series de tiempo cierre acciones - LSTM y PCA
+
+Con la ayuda de Principal Component Analysis (PCA) se analizarán las características del dataset, con el fin de revisar su variabilidad y la posibiidad de reducir sus características. Luego, se crearán diferentes tipos de modelos de arquitectura LSTM, donde varia el número de neuronas de la capa LSTM y el lookback para realizar el mismo ejercicio de los anteriores notebooks: Entrenamiento de los modelos, selección del mejor modelo y predicciones con éste último.
+
+## Contenido
+
+1. Importación de librerías y cargue del dataset
+2. PCA
+3. Definión funciones de creación de dataset y gráficos de los modelos
+4. LSTM
+
 ## Modelos entrenados
 
 Los modelos que fueron entrenados y exportados en los notebooks, se encuentran disponibles en los siguientes enlaces:
