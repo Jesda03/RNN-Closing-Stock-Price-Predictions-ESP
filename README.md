@@ -9,6 +9,7 @@ Todo esto, con el fin de contar con la mayor cantidad de datos posible para la r
 Datos históricos de precios de acciones en la Bvc: https://www.bvc.com.co/pps/tibco/portalbvc/Home/Empresas/Listado+de+Emisores
 
 Link de interés: 
+
 https://github.com/borisbanushev/stockpredictionai
 
 A continuación se detalla el contenido de cada notebook:
@@ -67,6 +68,6 @@ Con la ayuda de Principal Component Analysis (PCA) se analizarán las caracterí
 
 Los modelos que fueron entrenados y exportados en los notebooks, se encuentran disponibles en los siguientes enlaces:
 
-U4.02: https://www.dropbox.com/sh/pnaw4tx2h0wdb96/AACCi8wep96-Lg8k28gjI8y5a
+U4.02 & U4.04: https://www.dropbox.com/sh/pnaw4tx2h0wdb96/AACCi8wep96-Lg8k28gjI8y5a
 
 U4.03: https://drive.google.com/drive/folders/1eY3rBhjQQRWVB10M5Mc0O8W1HQLd_5zQ?usp=sharing
