@@ -74,5 +74,5 @@ U4.03: https://drive.google.com/drive/folders/1eY3rBhjQQRWVB10M5Mc0O8W1HQLd_5zQ?
 
 # Colaboradores
 
--Jesus David Galarcio
--Juan Guillermo Pavas
+- Jesus David Galarcio
+- Juan Guillermo Pavas
