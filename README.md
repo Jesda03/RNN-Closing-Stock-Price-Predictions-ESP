@@ -52,6 +52,10 @@ En este notebook, se lleva a cabo el entrenamiento de una red LSTM con 512 célu
 4. Creación y entrenamiento del modelo LSTM-512C-30Lb
 5. Comparación del modelo y gráfico de predicciones
 
+## Modelos entrenados
 
-Los modelos que fueron entrenados y exportados en los notebooks, se encuentran disponibles en el siguiente link:
-https://www.dropbox.com/sh/pnaw4tx2h0wdb96/AACCi8wep96-Lg8k28gjI8y5a
+Los modelos que fueron entrenados y exportados en los notebooks, se encuentran disponibles en los siguientes enlaces:
+
+U4.02: https://www.dropbox.com/sh/pnaw4tx2h0wdb96/AACCi8wep96-Lg8k28gjI8y5a
+
+U4.03: https://drive.google.com/drive/folders/1eY3rBhjQQRWVB10M5Mc0O8W1HQLd_5zQ?usp=sharing
