@@ -71,3 +71,8 @@ Los modelos que fueron entrenados y exportados en los notebooks, se encuentran d
 U4.02 & U4.04: https://www.dropbox.com/sh/pnaw4tx2h0wdb96/AACCi8wep96-Lg8k28gjI8y5a
 
 U4.03: https://drive.google.com/drive/folders/1eY3rBhjQQRWVB10M5Mc0O8W1HQLd_5zQ?usp=sharing
+
+# Colaboradores
+
+-Jesus David Galarcio
+-Juan Guillermo Pavas
